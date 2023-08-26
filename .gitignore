@@ -1,0 +1,7 @@
+# Next/Node
+.next
+node_modules
+
+# IDE
+.vscode
+.idea
